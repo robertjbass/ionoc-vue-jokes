@@ -1,5 +1,5 @@
 {
-  "name": "vueApp",
+  "name": "vue-ionic-app",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -13,7 +13,10 @@
     "@capacitor/core": "2.4.2",
     "@ionic/vue": "^5.4.0",
     "@ionic/vue-router": "^5.4.0",
+    "@types/mathjs": "^6.0.7",
+    "axios": "^0.21.0",
     "core-js": "^3.6.5",
+    "mathjs": "^8.0.0",
     "vue": "^3.0.0-0",
     "vue-router": "^4.0.0-0"
   },
